@@ -49,9 +49,12 @@ Welcome to my GitHub profile! 🚀
 
 ## 🌐 Connect with Me  
 
+# Connect with Me 🌐
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/your-username)  
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
